@@ -1,4 +1,4 @@
-package com.codingwithmitch.rxjavaflatmapexample;
+package com.dmb.rxjavaflatmapexample;
 
 import org.junit.Test;
 

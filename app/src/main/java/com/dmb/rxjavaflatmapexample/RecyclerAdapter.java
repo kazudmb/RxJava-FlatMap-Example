@@ -1,4 +1,4 @@
-package com.codingwithmitch.rxjavaflatmapexample;
+package com.dmb.rxjavaflatmapexample;
 
 import android.view.LayoutInflater;
 import android.view.View;
@@ -6,7 +6,7 @@ import android.view.ViewGroup;
 import android.widget.ProgressBar;
 import android.widget.TextView;
 
-import com.codingwithmitch.rxjavaflatmapexample.models.Post;
+import com.dmb.rxjavaflatmapexample.models.Post;
 
 import java.util.ArrayList;
 import java.util.List;

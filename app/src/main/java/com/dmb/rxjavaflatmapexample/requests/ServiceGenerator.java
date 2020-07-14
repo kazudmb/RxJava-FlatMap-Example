@@ -1,4 +1,4 @@
-package com.codingwithmitch.rxjavaflatmapexample.requests;
+package com.dmb.rxjavaflatmapexample.requests;
 
 
 import retrofit2.Retrofit;

@@ -1,13 +1,11 @@
-package com.codingwithmitch.rxjavaflatmapexample.requests;
+package com.dmb.rxjavaflatmapexample.requests;
 
-import com.codingwithmitch.rxjavaflatmapexample.models.Comment;
-import com.codingwithmitch.rxjavaflatmapexample.models.Post;
+import com.dmb.rxjavaflatmapexample.models.Comment;
+import com.dmb.rxjavaflatmapexample.models.Post;
 
 import java.util.List;
 
-import io.reactivex.Flowable;
 import io.reactivex.Observable;
-import okhttp3.ResponseBody;
 import retrofit2.http.GET;
 import retrofit2.http.Path;
 

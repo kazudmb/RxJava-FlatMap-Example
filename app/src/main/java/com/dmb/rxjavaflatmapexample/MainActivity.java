@@ -1,4 +1,4 @@
-package com.codingwithmitch.rxjavaflatmapexample;
+package com.dmb.rxjavaflatmapexample;
 
 import android.os.Bundle;
 import android.util.Log;
@@ -7,9 +7,9 @@ import androidx.appcompat.app.AppCompatActivity;
 import androidx.recyclerview.widget.LinearLayoutManager;
 import androidx.recyclerview.widget.RecyclerView;
 
-import com.codingwithmitch.rxjavaflatmapexample.models.Comment;
-import com.codingwithmitch.rxjavaflatmapexample.models.Post;
-import com.codingwithmitch.rxjavaflatmapexample.requests.ServiceGenerator;
+import com.dmb.rxjavaflatmapexample.models.Comment;
+import com.dmb.rxjavaflatmapexample.models.Post;
+import com.dmb.rxjavaflatmapexample.requests.ServiceGenerator;
 
 import java.util.List;
 import java.util.Random;
